@@ -17,7 +17,7 @@ const heroicData = [{
     img: "icons/ironman.png",
     color: "#931815",
     backgroundColor: "#f39c11",
-    subtitle: "The Armored Avenger",
+    subtitle: "Test fetch",
     description: "When billionaire industrialist Tony Stark dons his sophisticated armor, he becomes a living high-tech weapon. Tony uses his ultra modern creation alongside the Avengers fighting for the greater good.",
     firstSeen: new Date(1963, 3),
 }, {
