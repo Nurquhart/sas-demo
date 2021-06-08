@@ -8,7 +8,6 @@
  */
 
 // added a comment
-// Another comment added
 
 /**
  * Given a hero object (see data.js), this function generates a "card" showing
