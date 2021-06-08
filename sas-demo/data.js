@@ -11,7 +11,7 @@
  */
 const heroicData = [{
     id: 1,
-    first: "KKKK",
+    first: "OOOO",
     last: "Stark",
     name: "Iron Man",
     img: "icons/ironman.png",
