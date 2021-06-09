@@ -9,6 +9,8 @@
 
 // added a comment
 
+// a nother coment
+
 /**
  * Given a hero object (see data.js), this function generates a "card" showing
  *     the hero's name, information, and colors.
