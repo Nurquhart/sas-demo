@@ -9,6 +9,7 @@
 
 // added a comment
 // another
+// new
 
 /**
  * Given a hero object (see data.js), this function generates a "card" showing
