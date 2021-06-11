@@ -11,11 +11,7 @@
  */
 const heroicData = [{
     id: 1,
-<<<<<<< HEAD
-    first: "AAAA",
-=======
-    first: "CCCC",
->>>>>>> newBranch
+    first: "BBBB",
     last: "Stark",
     name: "Iron Man",
     img: "icons/ironman.png",
