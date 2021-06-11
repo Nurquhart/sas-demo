@@ -14,6 +14,8 @@
 // another asdf
 // a new comment 
 
+// new comment for demo
+
 
 /**
  * Given a hero object (see data.js), this function generates a "card" showing
