@@ -88,7 +88,7 @@ const heroicData = [{
     firstSeen: new Date(1963, 5),
 }, {
     id: 8,
-    first: "Clint",
+    first: "BBBB",
     last: "Barton",
     name: "Hawkeye",
     img: "icons/hawkeye.png",
