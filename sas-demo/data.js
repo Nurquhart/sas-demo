@@ -11,7 +11,7 @@
  */
 const heroicData = [{
     id: 1,
-    first: "TTTT",
+    first: "HHHH",
     last: "AAAA",
     name: "Iron Man",
     img: "icons/ironman.png",
@@ -98,6 +98,7 @@ const heroicData = [{
     description: "With perfect accuracy and a quiver of trick arrows, Clint Barton's wit is usually faster than his lightning-quick reflexes. Though he doesn't always follow the rules, Hawkeye has proved himself an invaluable member of the Avengers.",
     firstSeen: new Date(1964, 9),
 }];
+
 
 
 
