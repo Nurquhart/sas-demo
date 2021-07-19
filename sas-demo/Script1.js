@@ -1,3 +1,6 @@
 // JavaScript source code
 
-// first one
+// first comment
+//second
+//second
+//second
